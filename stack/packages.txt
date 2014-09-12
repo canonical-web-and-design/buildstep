@@ -43,3 +43,5 @@ sqlite3
 telnet
 zlib1g-dev
 bzr
+gunicorn
+
