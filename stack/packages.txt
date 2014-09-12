@@ -44,4 +44,5 @@ telnet
 zlib1g-dev
 bzr
 gunicorn
+ruby-sass
 
